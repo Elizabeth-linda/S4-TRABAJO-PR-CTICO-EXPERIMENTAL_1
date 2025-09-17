@@ -52,7 +52,8 @@ El formulario realiza las siguientes validaciones:
 1. Clonar el repositorio usando Git:
 
 ```bash
-git clone https://github.com/Elizabeth-linda/S4-TRABAJO-PR-CTICO-EXPERIMENTAL_1.git```
+git clone https://github.com/Elizabeth-linda/S4-TRABAJO-PR-CTICO-EXPERIMENTAL_1.git   ```
+
 
 
 2. Abrir la carpeta del proyecto en su computadora.
