@@ -55,9 +55,31 @@ El formulario realiza las siguientes validaciones:
 git clone https://github.com/Elizabeth-linda/S4-TRABAJO-PR-CTICO-EXPERIMENTAL_1.git
 
 
+2. Abrir la carpeta del proyecto en su computadora.
 
+3. Ejecutar el archivo index.html en cualquier navegador moderno (Google Chrome, Mozilla Firefox, Microsoft Edge).
 
+4. Interactuar con el formulario y verificar que las validaciones funcionen correctamente.
 
+Nota: No se requiere servidor local; el proyecto funciona únicamente con HTML, CSS y JavaScript.
+
+## Requisitos del Proyecto ##
+
+Navegador web actualizado.
+
+Conexión a Internet para cargar la fuente gótica desde Google Fonts.
+
+Sistema operativo compatible con navegadores modernos.
+
+## Responsividad ##
+
+El formulario está diseñado para adaptarse automáticamente a diferentes tamaños de pantalla, asegurando legibilidad y funcionalidad en:
+
+Dispositivos móviles.
+
+Tablets.
+
+Computadoras de escritorio
 
 
 
